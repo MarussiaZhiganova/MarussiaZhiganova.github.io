@@ -1,3 +1,4 @@
-v0.0.2
+Учебный проект, посвященный валидации веб-форм при помощи регулярных выражений (аттрибут pattern для полей ввода)
+Демо-версия:
 https://github.com/MarussiaZhiganova/MarussiaZhiganova.github.io
-regular expression
+Версия: v0.0.3
